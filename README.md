@@ -55,11 +55,10 @@ A makefile is a special file that lists a set of rules for compiling a project. 
 
 * Finally, check the "Event status" under deployment logs, so that make sure you pass all tests successfully. Otherwise, please find the errors from "Event log" to debug.
 * We use the link above (https://anca32dvu7.us-east-2.awsapprunner.com) to check app.py again
-<img width="581" alt="Screen Shot 2023-01-24 at 12 16 42 AM" src="https://user-images.githubusercontent.com/112274822/214217252-09ab6364-4f44-489d-b305-1d72aecadcaf.png">
-<img width="1058" alt="Screen Shot 2023-01-23 at 11 17 43 PM" src="https://user-images.githubusercontent.com/112274822/214217097-7505a283-54be-429f-833f-b07f002f5b7d.png">
+<img width="415" alt="Screen Shot 2023-01-24 at 12 20 46 AM" src="https://user-images.githubusercontent.com/112274822/214217706-9a18f15d-8a57-461f-827e-6592d355f518.png">
+<img width="976" alt="Screen Shot 2023-01-23 at 10 11 16 PM" src="https://user-images.githubusercontent.com/112274822/214217100-72fa038d-f278-42ce-af68-9a7f1ed03e70.png">
 
 * Usage of examples (Test the URL):anca32dvu7.us-east-2.awsapprunner.com/change/1/38
-<img width="976" alt="Screen Shot 2023-01-23 at 10 11 16 PM" src="https://user-images.githubusercontent.com/112274822/214217100-72fa038d-f278-42ce-af68-9a7f1ed03e70.png">
 <img width="692" alt="Screen Shot 2023-01-23 at 10 12 34 PM" src="https://user-images.githubusercontent.com/112274822/214217102-8a58ad86-46cb-49da-b6c1-1b9c6b6ddeb8.png">
 
 #### 2). Use IaC (Infrastructure as Code) in CloudFormation at AWS to deploy code
