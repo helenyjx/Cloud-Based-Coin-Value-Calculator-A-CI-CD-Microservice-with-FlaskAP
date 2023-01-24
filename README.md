@@ -4,7 +4,7 @@
 In project 1, the purpose is to build cloud continuous delivery of Microservice in FlaskAPI through Data Engineering. I build a simple Automatic Coin Value Calculator FlaskAPI, this algorithm can be applied in the automatic change registers in supermarkets. It is used to find the coin value for the cashiers when customers using coin to pay for the goods or services. According to the formula of the Coin Values Calculator: Dollar = $1, Quarter = $0.25, Dime = $0.1, Nickel = $0.05, Penny = $0.01, once the user type dollars and cents, the microservice will return their change. For example, if you have $1.34, it will return:"{5: 'Quarters'}, {1: 'Nickels'}, {4: 'Pennies'}". That is, 4 pennies + 1 nickel + 5 quarters = $1.34
 
 ## Structure Diagram
-
+<img width="1139" alt="Screen Shot 2023-01-24 at 1 22 52 AM" src="https://user-images.githubusercontent.com/112274822/214225298-7b69851b-aac0-43bc-a330-e9ef07bf5ecb.png">
 
 ## Demo Video Link
 
