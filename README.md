@@ -61,7 +61,7 @@ A makefile is a special file that lists a set of rules for compiling a project. 
 * Usage of examples (Test the URL):anca32dvu7.us-east-2.awsapprunner.com/change/1/38
 <img width="692" alt="Screen Shot 2023-01-23 at 10 12 34 PM" src="https://user-images.githubusercontent.com/112274822/214217102-8a58ad86-46cb-49da-b6c1-1b9c6b6ddeb8.png">
 
-#### 2). Use IaC (Infrastructure as Code) in CloudFormation at AWS to deploy code
+#### 2). After using IaC (Infrastructure as Code) via AWS APP Runner, check it in CloudFormation
 * CloudFormation uses YAML or JSON, it is a popular cloud infrastructure automation tool coming from the IaaS giant AWS. It enables organizations to easily create, deploy and manage the AWS resource stack using a template or a text file that acts as a single source of truth.
-* Login to AWS, go to CloudFormation and then click "Stack", we can check our code status below "Events".
+* Login to AWS, go to CloudFormation and then click "Stack", we can check our code status based on the project that we just deploy at the AWS APP Runner, and then choose below "Events".
 <img width="1286" alt="Screen Shot 2023-01-23 at 10 35 54 PM" src="https://user-images.githubusercontent.com/112274822/214215670-05586370-c2f3-459f-bd3d-dd3e79e6da29.png">
