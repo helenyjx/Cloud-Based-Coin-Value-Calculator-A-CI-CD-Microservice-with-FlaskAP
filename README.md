@@ -7,7 +7,7 @@ In project 1, the purpose is to build cloud continuous delivery of Microservice 
 <img width="1139" alt="Screen Shot 2023-01-24 at 1 22 52 AM" src="https://user-images.githubusercontent.com/112274822/214225298-7b69851b-aac0-43bc-a330-e9ef07bf5ecb.png">
 
 ## Demo Video Link
-
+https://teams.microsoft.com/l/message/19:53b60ceaebe2478e8cc1508cb3b4eb07@thread.tacv2/1675307470656?tenantId=cb72c54e-4a31-4d9e-b14a-1ea36dfac94c&groupId=7757ff33-20f5-434b-8d0b-5fe61b251c34&parentMessageId=1675307470656&teamName=IDS-721-Spring-2023&channelName=Week%203%20Individual%20Project%201&createdTime=1675307470656&allowXTenantAccess=false
 
 ## Preparation
 ### 1. Containerization: Setup virtual environment
