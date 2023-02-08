@@ -1,7 +1,7 @@
 # Project 1 Cloud Continuous Delivery of Microservice (Data Engineering Focused)
 [![Python application test with Github Actions](https://github.com/nogibjj/Jiaxin-P1-microservice/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/Jiaxin-P1-microservice/actions/workflows/main.yml)
 
-[![CodeBuild test with AWS](https://us-east-2.console.aws.amazon.com/apprunner/home?region=us-east-2#/services/dashboard?service_arn=arn%3Aaws%3Aapprunner%3Aus-east-2%3A894437926398%3Aservice%2Fmachinechange%2Fb27409da2a1b40cc893a34a211c6638b&active_tab=logs)]
+[![AppRunner test with AWS](https://apprunner.us-east-2.console.aws.amazon.com/apprunner/home?region=us-east-2#/services/dashboard?service_arn=arn%3Aaws%3Aapprunner%3Aus-east-2%3A894437926398%3Aservice%2Fmachinechange%2Fb27409da2a1b40cc893a34a211c6638b&active_tab=logs)
 
 ## Key Objectives of Project
 In project 1, the purpose is to build cloud continuous delivery of Microservice in FlaskAPI through Data Engineering. I build a simple Automatic Coin Value Calculator FlaskAPI, this algorithm can be applied in the automatic change registers in supermarkets. It is used to find the coin value for the cashiers when customers using coin to pay for the goods or services. According to the formula of the Coin Values Calculator: Dollar = $1, Quarter = $0.25, Dime = $0.1, Nickel = $0.05, Penny = $0.01, once the user type dollars and cents, the microservice will return their change. For example, if you have $1.34, it will return:"{5: 'Quarters'}, {1: 'Nickels'}, {4: 'Pennies'}". That is, 4 pennies + 1 nickel + 5 quarters = $1.34
