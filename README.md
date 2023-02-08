@@ -1,4 +1,5 @@
 # Project 1 Cloud Continuous Delivery of Microservice (Data Engineering Focused)
+[![Python application test with Github Actions](https://https://github.com/nogibjj/Jiaxin-P1-microservice/actions/workflows/main.yml/badge.svg)](https://https://github.com/nogibjj/Jiaxin-P1-microservice/actions/workflows/main.yml)
 
 ## Key Objectives of Project
 In project 1, the purpose is to build cloud continuous delivery of Microservice in FlaskAPI through Data Engineering. I build a simple Automatic Coin Value Calculator FlaskAPI, this algorithm can be applied in the automatic change registers in supermarkets. It is used to find the coin value for the cashiers when customers using coin to pay for the goods or services. According to the formula of the Coin Values Calculator: Dollar = $1, Quarter = $0.25, Dime = $0.1, Nickel = $0.05, Penny = $0.01, once the user type dollars and cents, the microservice will return their change. For example, if you have $1.34, it will return:"{5: 'Quarters'}, {1: 'Nickels'}, {4: 'Pennies'}". That is, 4 pennies + 1 nickel + 5 quarters = $1.34
